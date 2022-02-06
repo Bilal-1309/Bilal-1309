@@ -3,7 +3,9 @@
 - Gym: [Код](https://github.com/Bilal-1309/GYM-Project) | [Демо](https://dashboard.heroku.com/apps/deploy-mern-gym)
 - Car-service: [Код](https://github.com/Bilal-1309/CarServices-Project) 
 
+### Аккаунт на Codewars:
 
+[Ссылка](https://www.codewars.com/users/Bilal-1309)
 
 ### Связаться со мной:
 
