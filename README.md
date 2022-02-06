@@ -5,7 +5,7 @@
 
 ### Аккаунт на Codewars:
 
-[Ссылка](https://www.codewars.com/users/Bilal-1309)
+[Codewars](https://www.codewars.com/users/Bilal-1309)
 
 ### Связаться со мной:
 
