@@ -2,6 +2,7 @@
 
 - Gym: [Код](https://github.com/Bilal-1309/GYM-Project) | [Демо](https://dashboard.heroku.com/apps/deploy-mern-gym)
 - Car-service: [Код](https://github.com/Bilal-1309/CarServices-Project) 
+- Sneakers-Shop: [Код](https://github.com/Bilal-1309/Sneakers) 
 
 ### Аккаунт на Codewars:
 
